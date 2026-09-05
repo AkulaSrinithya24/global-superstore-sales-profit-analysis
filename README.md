@@ -22,7 +22,7 @@ The dashboard provides an executive-level overview of business performance and h
 
 Provides an executive summary of overall business performance.
 
-Key insights include:
+which includes:
 - Total Sales
 - Total Profit
 - Total Orders
@@ -36,7 +36,21 @@ Key insights include:
 - Profit by Category
 - Sales by Segment
 - Top 5 Products by Sales
-- 
+
+**Interactive feature:**
+- Region slicer for dynamic filtering
+
+## 🔍 Key Insights
+
+- The dashboard provides an overall view of sales and profitability, with total sales of approximately ₹12.64M and an overall profit margin of 11.6%.
+- The Consumer segment contributes the largest share of overall sales compared with the Corporate and Home Office segments.
+- The Technology category makes a significant contribution to overall sales and profitability.
+- The Central region is one of the leading regions in terms of sales performance.
+- Copiers are among the strongest-performing sub-categories in terms of profit.
+- The Top 5 product and customer analyses help identify the products and customers contributing significantly to overall business performance.
+- The Sales vs. Profitability scatter plot helps identify products with strong sales and profitability as well as products where high sales do not necessarily translate into high profit.
+- Interactive Region and Category slicers allow users to explore these patterns dynamically.
+
 #### Dashboard Preview
 ![Sales Overview Dashboard](images/sales-overview.png)
 
@@ -56,7 +70,12 @@ Key insights include:
 - Product Sales vs Profitability
 - Top 5 Customers by Sales
 - Sales Contribution by Category
-- Region and Category filters
+  
+ **Interactive features:**
+- Region slicer
+- Category slicer
+- Product sales vs. profitability scatter plot
+- Page navigation between dashboard pages
 
 #### Dashboard Preview
 ![Product & Customer Analysis Dashboard](images/product-customer-analysis.png)
@@ -65,13 +84,14 @@ Key insights include:
 
 ## 🛠️ Tools & Technologies
 
-- Power BI
-- Power Query
-- DAX
-- Data Visualization
-- Data Cleaning & Transformation
-- Business Intelligence
-- Excel / CSV Dataset
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI Desktop** — Dashboard development and data visualization
+- **Power Query** — Data cleaning and transformation
+- **DAX** — Measures and KPI calculations
+- **Data Modeling** — Relationships between tables
+- **Interactive Slicers** — Dynamic filtering
+- **Business Intelligence** — Business-focused analysis and reporting
 
 ## 📈 Key KPIs
 
@@ -88,7 +108,7 @@ Key insights include:
 ## 🔍 Key Skills Demonstrated
 
 - Data cleaning and transformation using Power Query
-- Data modeling
+- Data modeling and table relationships
 - DAX measures
 - KPI development
 - Interactive dashboard design
@@ -98,6 +118,18 @@ Key insights include:
 - page navigation
 - Insight generation
 
+## 🔄 Project Workflow
+
+1. Imported the Global Superstore dataset into Power BI.
+2. Cleaned and transformed the data using Power Query.
+3. Prepared the tables and established relationships in the data model.
+4. Created DAX measures for key business metrics.
+5. Designed KPI cards to summarize business performance.
+6. Created interactive visualizations for sales, profit, products, customers, categories, regions, and segments.
+7. Added Region and Category slicers for interactive filtering.
+8. Implemented cross-filtering between visuals.
+9. Added page navigation between dashboard pages.
+10. Tested the dashboard interactions and finalized the layout.
 ## 📂 Project File
 
 The Power BI dashboard file is available in this repository:
