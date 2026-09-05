@@ -38,7 +38,7 @@ Key insights include:
 - Top 5 Products by Sales
 - 
 #### Dashboard Preview
-<img width="1441" height="812" alt="sales-overview" src="https://github.com/user-attachments/assets/56f338e7-a65f-40fb-ba9e-df9b21af4c5e" />
+![Sales Overview Dashboard](images/sales-overview.png)
 
 
 ### 2. Product & Customer Analysis
@@ -59,7 +59,7 @@ Key insights include:
 - Region and Category filters
 
 #### Dashboard Preview
-<img width="1442" height="846" alt="product-customer-analysis" src="https://github.com/user-attachments/assets/d1b10c3b-f1ed-4464-9d7c-d43271009be0" />
+![Product & Customer Analysis Dashboard](images/product-customer-analysis.png)
 
 
 
